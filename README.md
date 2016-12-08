@@ -1,6 +1,6 @@
 # sell
 
-> sell app
+> sell app 仿饿了吗app的商家页
 
 ## Build Setup
 
