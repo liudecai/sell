@@ -1,6 +1,11 @@
 # sell
 
-> sell app 仿饿了吗app的商家页
+> name
+>   sell app
+> tools
+>   dev by vue.js 2.0 with webpack
+> desc
+>   仿饿了吗app的商家页
 
 ## Build Setup
 
